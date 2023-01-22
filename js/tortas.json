@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "tortas",
+        "category" : "Chair",
+        "price" : "50.25",
+        "imgSrc" : "/imagenes/pagina-tortas/pr1.png"
+    },
+    {
+        "name" : "Bed",
+        "category" : "Bed",
+        "price" : "102.00",
+        "imgSrc" : "/imagenes/pagina-tortas/pr1.png"
+    }
+]

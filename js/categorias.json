@@ -1,0 +1,22 @@
+[
+    {
+        "categoria":"tortas",
+        "titulo":"Tortas",
+        "img":"/imagenes/pagina-tortas/tortas1.jpg"
+    },
+    {
+        "categoria":"cupcakes",
+        "titulo":"Cupcakes",
+        "img":"/imagenes/pagina-tortas/tortas2.jpeg"
+    },
+    {
+        "categoria":"choco",
+        "titulo":"choco",
+        "img":"/imagenes/pagina-tortas/tortas3.jpeg"
+    },
+    {
+        "categoria":"galleta",
+        "titulo":"galleta",
+        "img":"/imagenes/pagina-tortas/tortas4.jpg"
+    }
+]
